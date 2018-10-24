@@ -1,0 +1,10 @@
+{
+  "name": "github-api-cli",
+  "version": "1.0.0",
+  "description": "CLI for GitHub API. Uncommon requests are our core!",
+  "main": "index.js",
+  "repository": "https://github.com/robertgrzonka/github-api-cli",
+  "author": "robertgrzonka <hello@robertgrzonka.pl> (https://robertgrzonka.pl/)",
+  "license": "ISC",
+  "private": true
+}
