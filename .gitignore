@@ -1,9 +1,9 @@
 # Specifics
 *.js~
 *.un~
-tests/
 repos.txt
 credentials.sh
+add/
 
 # Created by https://www.gitignore.io/api/git,node,test,visualstudiocode
 
