@@ -3,12 +3,32 @@
 	"version": "1.0.0",
 	"description": "GitHub APIv3 CLI for macOs.",
 	"main": "start.js",
-	"repository": "https://github.com/robertgrzonka/github-api-cli",
+	"repository": "git@github.com:robertgrzonka/github-api-cli.git",
 	"author": "robertgrzonka <hello@robertgrzonka.pl> (https://robertgrzonka.pl/)",
 	"license": "ISC",
 	"private": true,
 	"dependencies": {
+		"@octokit/rest": "^15.15.1",
+		"chalk": "^2.4.1",
+		"clear": "^0.1.0",
+		"clui": "^0.3.6",
+		"configstore": "^4.0.0",
+		"eslint": "^5.8.0",
+		"figlet": "^1.2.1",
+		"inquirer": "^6.2.0",
+		"lodash": "^4.17.11",
 		"minimist": "^1.2.0",
-		"node-fetch": "^2.2.0"
+		"node-fetch": "^2.2.0",
+		"simple-git": "^1.106.0",
+		"touch": "^3.1.0"
+	},
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-preset-flow": "^6.23.0",
+		"flow-bin": "^0.84.0"
+	},
+	"scripts": {
+		"build": "babel src/ -d lib",
+		"prepublish": "yarn run build"
 	}
 }
