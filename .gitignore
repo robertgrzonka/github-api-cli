@@ -1,1 +1,6 @@
-*/credentials.sh
+# Specific files/folders for this app:
+node_modules/
+tests/
+lib/fetchSaveRepo.js
+src/*
+.env

@@ -1,13 +1,11 @@
+viae™ was build on top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.]
+
 # viae™
-> Intuitive and fast solution to manipulate GitHub's REST API
+> Intuitive and fast solution to manipulate GitHub's REST API :tada: 
 
-Introducing: __GitHub API Command Line Interface__ :tada: 
-
-viae™ was build on top of [Node.js][Node.js Homepage] and looks amazing in default [Hyper™][Hyper Homepage] theme from [ZEIT, Inc.][Zeit, Inc.].
+viae™ is a __GitHub API Command Line Interface__ which was build on a top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
 
 ![Hyper™ default theme](lib/viae-and-hyper.png)
-
-## Code of Conduct
 
 ## Table of Contents
 
@@ -20,19 +18,21 @@ viae™ was build on top of [Node.js][Node.js Homepage] and looks amazing in def
 5. [Credits](#credits)
 
 ## ~~Install~~
-> Some additional info.
+> Soon!
 
 For now it would be better if you go to [Development][Development] and run it in `--dev` mode.
 
 ## Contribution
 > Contributors: feel welcome!
 
+### Code of Conduct
+
 ### To do:
-- [ ] documentation / --help, -h
-- [ ] homepage outside GitHub
-- [ ] [npm][npm] package
-- [ ] `GET/POST/PUT/DELETE` to add
-- [ ] REST API possibilities to add
+- [ ] write innner documentation like so `--help, -h`
+- [ ] build homepage
+- [ ] explain CRUD: `Create/Read/Update/Delete`
+- [ ] add [npm][npm] package
+- [ ] add HTTP Verbs: `GET/POST/PUT/DELETE`
 
 ### Development
 Clone repository via `git clone` and install all Dependencies in downloaded `viae` root folder — use your favorite package manager.

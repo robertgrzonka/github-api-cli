@@ -67,13 +67,12 @@ members of the project's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+This Code of Conduct is adapted from the [Contributor Covenant][CC Homepage], version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 ---
 
-[robertgrzonka][gl/rg] & [theGuys][gl/theguys] © 2018 
+[theGuys™][theGuys] © 2018 
 
-[homepage]: https://www.contributor-covenant.org
-[gl/rg]: https://gitlab.com/robertgrzonka
-[gl/theguys]: https://gitlab.com/theguys
+[CC Homepage]: https://www.contributor-covenant.org
+[theGuys]: https://github.com/theguysdesign
