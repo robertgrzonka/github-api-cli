@@ -1,6 +1,10 @@
 # GitHub API CLI
 
-:tada: Introducing GitHub API Command Line Interface. 
-:rocket: Build on NodeJS for macOS. 
+:tada: Introducing GitHub API Command Line Interface :tada: 
 
-:fire: Contributors: please, don't hesitate and colaborate, but treat my baby as your own!
+## Contribution
+Contributors feel welcome! 
+For more info please go [here][Contributors Guide].
+
+[Contributors Guide]: CONTRIBUTING.md
+
