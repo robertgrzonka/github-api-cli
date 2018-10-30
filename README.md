@@ -1,3 +1,6 @@
 # GitHub API CLI
 
-Introducing GitHub API Command Line Interface. :octocat: Build on NodeJS for macOS. :rocket: Contributors: please, don't hesitate and treat as your own :fire:
+:octocat: Introducing GitHub API Command Line Interface. 
+:rocket: Build on NodeJS for macOS. 
+
+:fire: Contributors: please, don't hesitate and colaborate, but treat my baby as your own!
