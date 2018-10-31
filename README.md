@@ -1,12 +1,19 @@
+<<<<<<< HEAD
 # <span style="font-variant: small-caps">viae™</span> :octocat:
 > Intuitive and fast solution to manipulate GitHub's REST API :tada: 
 
 <span style="font-variant: small-caps">viae™</span> is a __GitHub API Command Line Interface__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
+=======
+
+# <div style="text-align: center; font-variant: small-caps">viae™</div> :octocat:
+> Intuitive and fast solution to manipulate GitHub's REST API :tada: 
+
+<div style="font-variant: small-caps">viae™</div> is a __GitHub API Command Line Interface__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :monkey: :black_heart:
+>>>>>>> d9e3377692d030ccc835873cd4265af49367b3e2
 
 ![Hyper™ default theme](lib/viae-and-hyper.png)
 
 ## Table of Contents
-
 1. [Overview](#viae™)
 2. [Code of Conduct](#code-of-conduct)
 3. [Install](#install)
@@ -24,7 +31,11 @@ For now it would be better if you go to [Development][Development] and run it in
 > Contributors: feel welcome!
 
 ### [Code of Conduct][Contributors Guide]
+<<<<<<< HEAD
 > Not on my watch!
+=======
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+>>>>>>> d9e3377692d030ccc835873cd4265af49367b3e2
 
 Please: before you'll make your first `Pull Request` make sure that you fully understand and agree Code of Conduct. In the world which we're living now it's crucial for me (and I hope to future society around my projects) that everyoneż will **respect** the others. Thank you!
 
@@ -39,13 +50,24 @@ Please: before you'll make your first `Pull Request` make sure that you fully un
 Clone repository via `git clone` and install all Dependencies in downloaded `viae` root folder — use your favorite package manager.
 
 ```shell
+
 git clone https://github.com/robertgrzonka/viae
 cd viae
 yarn
+
 ```
 > Change yarn to `npm install` if you'd like.
 
-For more info please go [here][Contributors Guide].
+For more info please check [here][Contributors Guide].
+
+---
+<div style="text-align: center; font-variant: small-caps">
+
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
+[theGuys™][theguys] represented by [robertgrzonka][robertgrzonka] © 2018
+
+</div>
 
 ---
 <div style="text-align: center; font-variant: small-caps">
