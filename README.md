@@ -3,7 +3,7 @@
 
 Introducing: __GitHub API Command Line Interface__ :tada: 
 
-viae™ was build on top of [Node.js][Node.js Homepage] and looks amazing in default [Hyper™][Hyper Homepage] theme from [ZEIT, Inc.][Zeit, Inc.].
+viae™ was build on a top of [Node.js][Node.js Homepage] and looks amazing in default [Hyper™][Hyper Homepage] theme from [ZEIT, Inc.][Zeit, Inc.].
 
 ![Hyper™ default theme](lib/viae-and-hyper.png)
 
