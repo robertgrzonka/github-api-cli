@@ -1,9 +1,7 @@
-viae™ was build on top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.]
-
 # viae™
 > Intuitive and fast solution to manipulate GitHub's REST API :tada: 
 
-viae™ is a __GitHub API Command Line Interface__ which was build on a top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
+viae™ is a __GitHub API Command Line Interface__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
 
 ![Hyper™ default theme](lib/viae-and-hyper.png)
 
