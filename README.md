@@ -1,43 +1,33 @@
-<<<<<<< HEAD
-# <span style="font-variant: small-caps">viae™</span> :octocat:
-> Intuitive and fast solution to manipulate GitHub's REST API :tada: 
+<div align="center"><h1 style="font-variant: small-caps">viae™</h1></div>
 
-<span style="font-variant: small-caps">viae™</span> is a __GitHub API Command Line Interface__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
-=======
+<div align="center"><h3>Intuitive and fast solution to manipulate GitHub REST API</h3></div>
 
-# <div style="text-align: center; font-variant: small-caps">viae™</div> :octocat:
-> Intuitive and fast solution to manipulate GitHub's REST API :tada: 
+<span style="font-variant: small-caps">viae™</span> is a __Command Line Interface for GitHub API__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
 
-<div style="font-variant: small-caps">viae™</div> is a __GitHub API Command Line Interface__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :monkey: :black_heart:
->>>>>>> d9e3377692d030ccc835873cd4265af49367b3e2
-
-![Hyper™ default theme](lib/viae-and-hyper.png)
+<div align="center"><img alt="Hyper™" src="https://az-serwer1831564.online.pro/theguys.app/viae-and-hyper.png" /></div>
 
 ## Table of Contents
+
 1. [Overview](#viae™)
 2. [Code of Conduct](#code-of-conduct)
 3. [Install](#install)
 4. [Contribution](#contribution)
 	• [To do](#to-do)
 	• [Development](#development)
-5. [Credits](#credits)
 
-## ~~Install~~
-> Soon!
+## Install
+
+> N/A right now.
 
 For now it would be better if you go to [Development][Development] and run it in `--dev` mode.
 
-## Contribution
-> Contributors: feel welcome!
+## [Code of Conduct][Contributors Guide]
 
-### [Code of Conduct][Contributors Guide]
-<<<<<<< HEAD
-> Not on my watch!
-=======
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
->>>>>>> d9e3377692d030ccc835873cd4265af49367b3e2
+> Contributors: feel welcome, but...
 
-Please: before you'll make your first `Pull Request` make sure that you fully understand and agree Code of Conduct. In the world which we're living now it's crucial for me (and I hope to future society around my projects) that everyoneż will **respect** the others. Thank you!
+...please before you'll make your first `Pull Request` make sure that you fully understand and agree Code of Conduct. In the world which we're living now it's crucial for me (and I hope to future society around my projects) that everyoneż will **respect** the others. Thank you!
+
+<div align="center"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="ForTheBadge!" /></div>
 
 ### To do:
 - [ ] write innner documentation like so `--help, -h`
@@ -50,32 +40,20 @@ Please: before you'll make your first `Pull Request` make sure that you fully un
 Clone repository via `git clone` and install all Dependencies in downloaded `viae` root folder — use your favorite package manager.
 
 ```shell
-
 git clone https://github.com/robertgrzonka/viae
 cd viae
 yarn
-
 ```
+
 > Change yarn to `npm install` if you'd like.
 
 For more info please check [here][Contributors Guide].
 
 ---
-<div style="text-align: center; font-variant: small-caps">
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+<div align="center"><img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg" alt="ForTheBadge!" /></div>
 
-[theGuys™][theguys] represented by [robertgrzonka][robertgrzonka] © 2018
-
-</div>
-
----
-<div style="text-align: center; font-variant: small-caps">
-
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
-[theguys™][theguys] represented by [robertgrzonka][robertgrzonka] © 2018
-
-</div>
+<p align="center" style="font-variant: small-caps"><a href="https://github.com/theguysdesign">theGuys™</a> represented by <a href="mailto: robert@theguys.sh">robertgrzonka</a> © 2018</p>
 
 [ZEIT, Inc.]: https://zeit.co
 [Contributors Guide]: CONTRIBUTING.md
@@ -84,4 +62,3 @@ For more info please check [here][Contributors Guide].
 [npm]: https://npmjs.com
 [Development]: #Development
 [theGuys]: https://github.com/theguysdesign
-[robertgrzonka]: robert@theguys.sh

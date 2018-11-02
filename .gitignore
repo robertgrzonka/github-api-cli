@@ -4,3 +4,4 @@ tests/
 lib/fetchSaveRepo.js
 src/*
 .env
+logic.md
