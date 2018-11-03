@@ -1,15 +1,15 @@
-# <span style="font-variant: small-caps">viae™</span>
-> Intuitive and fast solution to manipulate GitHub's REST API :tada: 
+<p align="center">
+	<img src="https://az-serwer1831564.online.pro/theguys.app/viae.svg" alt="viae" width="50%" />
+</p>
 
-<span style="font-variant: small-caps">**viae**™</span> (or if you'd like more simply **Viae**) is a __GitHub API Command Line Interface__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
+<span style="font-variant: small-caps">viae™</span> is a __Command Line Interface for GitHub API__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
 
-<div class="text-align: center">
-
-![Hyper™ default theme](lib/viae-and-hyper.png)
+<div align="center"><img alt="Hyper™" src="https://az-serwer1831564.online.pro/theguys.app/viae-and-hyper.png" /></div>
 
 </div>
 
 ## Table of Contents
+
 1. [Overview](#viae™)
 2. [Code of Conduct](#code-of-conduct)
 3. [Install](#install)
@@ -17,21 +17,19 @@
 	• [To do](#to-do)
 	• [Development](#development)
 
-## ~~Install~~
-> Soon!
+## Install
+
+> N/A right now.
 
 For now it would be better if you go to [Development][Development] and run it in `--dev` mode.
 
 ## [Code of Conduct][Contributors Guide]
+
 > Contributors: feel welcome, but...
 
 ...please before you'll make your first `Pull Request` make sure that you fully understand and agree Code of Conduct. In the world which we're living now it's crucial for me (and I hope to future society around my projects) that everyoneż will **respect** the others. Thank you!
 
-<div class="text-align: center">
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-</div>
+<div align="center"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="ForTheBadge!" /></div>
 
 ### To do:
 - [ ] write innner documentation like so `--help, -h`
@@ -48,18 +46,16 @@ git clone https://github.com/robertgrzonka/viae
 cd viae
 yarn
 ```
+
 > Change yarn to `npm install` if you'd like.
 
 For more info please check [here][Contributors Guide].
 
 ---
-<div style="text-align: center; font-variant: small-caps">
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+<div align="center"><img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg" alt="ForTheBadge!" /></div>
 
-[theGuys™][theguys] represented by [robertgrzonka][robertgrzonka] © 2018
-
-</div>
+<p align="center" style="font-variant: small-caps"><a href="https://github.com/theguysdesign">theGuys™</a> represented by <a href="mailto: robert@theguys.sh">robertgrzonka</a> © 2018</p>
 
 [ZEIT, Inc.]: https://zeit.co
 [Contributors Guide]: CONTRIBUTING.md
@@ -68,4 +64,3 @@ For more info please check [here][Contributors Guide].
 [npm]: https://npmjs.com
 [Development]: #Development
 [theGuys]: https://github.com/theguysdesign
-[robertgrzonka]: robert@theguys.sh
