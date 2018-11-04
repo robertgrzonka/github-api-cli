@@ -1,10 +1,12 @@
-<div align="center"><h1 style="font-variant: small-caps">viae™</h1></div>
-
-<div align="center"><h3>Intuitive and fast solution to manipulate GitHub REST API</h3></div>
+<p align="center">
+	<img src="https://az-serwer1831564.online.pro/theguys.app/viae.svg" alt="viae" width="50%" />
+</p>
 
 <span style="font-variant: small-caps">viae™</span> is a __Command Line Interface for GitHub API__ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
 
 <div align="center"><img alt="Hyper™" src="https://az-serwer1831564.online.pro/theguys.app/viae-and-hyper.png" /></div>
+
+</div>
 
 ## Table of Contents
 
@@ -39,7 +41,7 @@ For now it would be better if you go to [Development][Development] and run it in
 ### Development
 Clone repository via `git clone` and install all Dependencies in downloaded `viae` root folder — use your favorite package manager.
 
-```shell
+```zsh
 git clone https://github.com/robertgrzonka/viae
 cd viae
 yarn

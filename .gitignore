@@ -5,3 +5,4 @@ lib/fetchSaveRepo.js
 src/*
 .env
 logic.md
+*.pdf
