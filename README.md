@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="https://travis-ci.com/robertgrzonka/viae.svg?branch=master">
+	<img src="https://travis-ci.com/robertgrzonka/viae.svg?branch=master"> <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"> <img src="https://az-serwer1831564.online.pro/theguys.sh/badges/badge-theguys.svg">
 </p>
 
 __viae™__ is a _Command Line Interface for GitHub API_ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
