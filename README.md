@@ -14,7 +14,7 @@ __viae™__ is a _Command Line Interface for GitHub API_ which was build on the 
 
 1. [Install](#install)
 2. [Code of Conduct](#code-of-conduct)
-3. [To-do](#todo)
+3. [To-do](#to-do)
 4. [Development](#development)
 5. [Credits](#credits)
 
@@ -22,13 +22,13 @@ __viae™__ is a _Command Line Interface for GitHub API_ which was build on the 
 
 > N/A right now.
 
-For now it would be better if you go to [Development][Development] and run it in `--dev` mode.
+For now it would be better if you go to [Development][#Development] and run it in `--dev` mode.
 
 ## [Code of Conduct][Contributors Guide]
 
 > Contributors: feel welcome, but...
 
-...please before you'll make your first `Pull Request` make sure that you fully understand and agree Code of Conduct. In the world which we're living now it's crucial for me (and I hope to future society around my projects) that everyoneż will **respect** the others. Thank you!
+...please before you'll make your first `Pull Request` make sure that you fully understand and agree Code of Conduct. In the world which we're living now it's crucial for me (and I hope to future society around my projects) that everyone will **respect** others. Thank you!
 
 <p align="center">
 	<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="ForTheBadge!" />
