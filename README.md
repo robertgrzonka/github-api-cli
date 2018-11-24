@@ -22,7 +22,7 @@ __viae™__ is a _Command Line Interface for GitHub API_ which was build on the 
 
 > N/A right now.
 
-For now it would be better if you go to [Development][#Development] and run it in `--dev` mode.
+For now it would be better if you go to [Development](#Development) and run it in `--dev` mode.
 
 ## [Code of Conduct][Contributors Guide]
 
