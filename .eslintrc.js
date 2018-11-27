@@ -3,16 +3,12 @@ module.exports = {
 		es6: true,
 		node: true
 	},
-	// extends: eslint:recommended,
+	extends: standard,
 	parserOptions: {
 		ecmaVersion: 2018,
 		sourceType: module
 	},
 	rules: {
-		indent: [
-			error,
-			4
-		],
 		linebreakStyle: [
 			error,
 			unix
@@ -25,5 +21,6 @@ module.exports = {
 			error,
 			never
 		]
-	}
+	},
+	globals: {github: true}
 }
