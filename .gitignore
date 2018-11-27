@@ -1,9 +1,8 @@
-# Specific files/folders for this app:
+# Folders:
 node_modules/
 tests/
-lib/fetchSaveRepo.js
 tmp/
+
+# Important files!
 .env
-logic.md
-*.pdf
 CNAME
