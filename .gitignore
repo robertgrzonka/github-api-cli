@@ -2,7 +2,8 @@
 node_modules/
 tests/
 lib/fetchSaveRepo.js
-src/*
+tmp/
 .env
 logic.md
 *.pdf
+CNAME
