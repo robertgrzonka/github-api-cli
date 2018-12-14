@@ -34,15 +34,26 @@ For now it would be better if you go to [Development](#Development) and run it i
 	<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="ForTheBadge!" />
 </p>
 
-## To do:
+## To do & done
 
-> Because I „like” to forget about things.
+> It's the begining of journey.
 
-- [ ] write innner documentation like so `--help, -h`
-- [ ] build homepage
-- [ ] explain CRUD: `Create/Read/Update/Delete`
-- [ ] add [npm][npm] package
+### Done
+
+- [x] architecture
+- [x] inner design
+- [x] core
+- [x] [additional funcionality](#additional-functionality) which was stimulus for me to make whole app
+
+#### Additional functionality
+Long story short: for almost a year I was forking every repository which was interesting for me — then I realized that the reason `fork` exists is slightly different so I wrote a code which lets me `GET` all of my repos names and delete it through `shell script`. 
+
+### To do
+
 - [ ] add HTTP Verbs: `GET/POST/PUT/DELETE`
+- [ ] add all GitHubs API methods
+- [ ] write CLI documentation like so: `viae --help` will print manual
+- [ ] add [npm][npm] package
 
 ## Development
 
