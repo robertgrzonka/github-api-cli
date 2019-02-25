@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://az-serwer1831564.online.pro/theguys.app/viae.svg" alt="viae" width="40%" />
+	<img src="img/viae.svg" alt="viae" width="40%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 __viae™__ is a _Command Line Interface for GitHub API_ which was build on the top of [Node.js][Node.js Homepage] and looks wonderfully in [Hyper™][Hyper Homepage] from [ZEIT, Inc.][Zeit, Inc.] This simple CLI has been designed to make your life easier, to look astonishing and has its educational reason too, Dummies :black_heart: :monkey:
 
-<div align="center"><img alt="Hyper™" src="https://az-serwer1831564.online.pro/theguys.app/viae-and-hyper.png" /></div>
+<div align="center"><img alt="Hyper™" src="img/viae-and-hyper.png" /></div>
 
 ## Table of Contents
 
